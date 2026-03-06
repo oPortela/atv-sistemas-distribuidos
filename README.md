@@ -1,7 +1,12 @@
 ## Atividade Sistemas Distribuidos
 
+FrontEnd: Tela de login simples com o envio de usuário e senha
 
-API simples para validação de requisição de Login
+## Tecnologias Usadas
+* React
+
+
+BACKEND: API simples para validação de requisição de Login
 
 ## Tecnologias Usadas
 * Python
